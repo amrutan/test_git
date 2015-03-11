@@ -1,4 +1,4 @@
 <?php 
 
-print "Some test";
+print "Some test its master";
 ?>
